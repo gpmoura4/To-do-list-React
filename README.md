@@ -20,8 +20,11 @@ Siga estas etapas para instalar e executar o projeto:
 Clone o repositório para sua máquina local:
 
 git clone git@github.com:gpmoura4/To-do-list-React.git
+
 cd nome-do-repositorio
+
 npm install
+
 npm start
 
 A aplicação estará disponível no seu navegador em http://localhost:3000/.
